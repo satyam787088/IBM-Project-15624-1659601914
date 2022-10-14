@@ -3,7 +3,7 @@
 ### Technology: Artificial Intelligence
 **Team ID:** PNT2022TMID39554
 
-**Batch:**
+**Batch:** B2-2M4E
 
 **Team Leader:** Balaji K
 
